@@ -1,0 +1,27 @@
+.slider-container{
+    background-color: #EEEEEE; 
+    padding: 40px 0px;  
+}
+.slider{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slider h1{
+    font-size: 60px;
+    line-height: 1.2;
+}
+.slider p{
+    font-size: 20px;
+}
+.slider p a{
+    text-decoration: none;
+    color: #3276B1;
+}
+.slider button{
+    color: white;
+    font-size: 20px;
+    background-color: #3276B1;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
